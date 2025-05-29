@@ -1,3 +1,5 @@
+## ![Thumbnail](Thumbnail.png)
+
 # 🏬 Integrated Retail Analytics for Store Optimization
 
 ## 📋 Project Overview
@@ -5,8 +7,6 @@
 This project analyzes retail data to optimize store performance and forecast weekly sales using data science and machine learning. The workflow covers data cleaning, exploratory analysis, feature engineering, model building, tuning, and actionable business recommendations.
 
 ---
-
-## [Thumbnail](Thumbnail.png)
 
 ## 📦 Data Sources
 
