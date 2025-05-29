@@ -6,6 +6,8 @@ This project analyzes retail data to optimize store performance and forecast wee
 
 ---
 
+## [Thumbnail](Thumbnail.png)
+
 ## 📦 Data Sources
 
 Three CSV datasets are used:
