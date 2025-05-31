@@ -4,7 +4,21 @@
 
 ## 📋 Project Overview
 
-This project analyzes retail data to optimize store performance and forecast weekly sales using data science and machine learning. The workflow covers data cleaning, exploratory analysis, feature engineering, model building, tuning, and actionable business recommendations.
+This project analyzes retail data to optimize store performance and forecast weekly sales using data science and machine learning techniques.
+
+---
+
+## 📋 Table of Contents
+
+1. [Problem Statement](#problem-statement)
+2. [Dataset Description](#dataset-description)
+3. [Exploratory Data Analysis](#exploratory-data-analysis)
+4. [Feature Engineering](#feature-engineering)
+5. [Model Building](#model-building)
+6. [Evaluation](#evaluation)
+7. [Business Insights](#business-insights)
+8. [Technologies Used](#technologies-used)
+9. [Future Improvements](#future-improvements)
 
 ---
 
