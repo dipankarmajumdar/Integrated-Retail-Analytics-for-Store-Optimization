@@ -8,20 +8,6 @@ This project analyzes retail data to optimize store performance and forecast wee
 
 ---
 
-## 📋 Table of Contents
-
-1. [Problem Statement](#problem-statement)
-2. [Dataset Description](#dataset-description)
-3. [Exploratory Data Analysis](#exploratory-data-analysis)
-4. [Feature Engineering](#feature-engineering)
-5. [Model Building](#model-building)
-6. [Evaluation](#evaluation)
-7. [Business Insights](#business-insights)
-8. [Technologies Used](#technologies-used)
-9. [Future Improvements](#future-improvements)
-
----
-
 ## 📦 Data Sources
 
 Three CSV datasets are used:
